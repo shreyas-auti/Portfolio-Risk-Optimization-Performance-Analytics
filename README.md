@@ -37,24 +37,23 @@ The objective is to determine whether **data-driven optimization improves risk-a
 
 ---
 
-## 🔹 Asset Allocation & Optimization
+## 🔹 Investment Growth Comparison
 
 <p align="center">
-<img src="images/asset_allocation.png" width="850">
+<img src="investment_growth.png" width="850">
 </p>
 
-**Key Highlights:**
-- Return: 36.1%
-- Volatility: 15.0%
-- Sharpe Ratio: 2.40
-- Weight Comparison (Equal vs Optimized)
+Shows:
+- Cumulative Returns  
+- Optimized vs Equal vs NIFTY  
+- Risk–Return Positioning
 
 ---
 
 ## 🔹 Risk Analytics Deep Dive
 
 <p align="center">
-<img src="images/risk_analytics.png" width="850">
+<img src="risk_analytics.png" width="850">
 </p>
 
 Includes:
@@ -65,16 +64,17 @@ Includes:
 
 ---
 
-## 🔹 Investment Growth Comparison
+## 🔹 Asset Allocation & Optimization
 
 <p align="center">
-<img src="images/investment_growth.png" width="850">
+<img src="asset_allocation.png" width="850">
 </p>
 
-Shows:
-- Cumulative Returns  
-- Optimized vs Equal vs NIFTY  
-- Risk–Return Positioning  
+**Key Highlights:**
+- Return: 36.1%
+- Volatility: 15.0%
+- Sharpe Ratio: 2.40
+- Weight Comparison (Equal vs Optimized)  
 
 ---
 
@@ -175,6 +175,7 @@ Sharpe optimization significantly improved **risk-adjusted performance** and red
 ---
 
 ## 👤 Author - Shreyas Auti 
-+918080079215
-shreyas.9auti@gmail.com
-linkedin.com/in/shreyas-auti-301a21175
+ - +918080079215
+ - shreyas.9auti@gmail.com
+ - https://www.linkedin.com/in/shreyas-auti-301a21175
+
