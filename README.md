@@ -71,9 +71,9 @@ Includes:
 </p>
 
 **Key Highlights:**
-- Return: 36.1%
-- Volatility: 15.0%
-- Sharpe Ratio: 2.40
+- Return: 37.1%
+- Volatility: 15.5%
+- Sharpe Ratio: 1.96
 - Weight Comparison (Equal vs Optimized)  
 
 ---
@@ -128,10 +128,10 @@ This project builds a **quantitative optimization framework** to maximize return
 
 | Metric | Optimized | Equal Weight | NIFTY 50 |
 |--------|-----------|--------------|----------|
-| Annual Return | 36.1% | 18.9% | — |
-| Volatility | 15.0% | 13.4% | 14.0% |
-| Sharpe Ratio | 2.40 | 1.41 | — |
-| Max Drawdown | -8% | -13% | -16% |
+| Annual Return | 37.1% | 18.9% | — |
+| Volatility | 15.5% | 13.4% | 14.06% |
+| Sharpe Ratio | 1.96 | 0.91 | — |
+| Max Drawdown | -9% | -13% | -16% |
 
 ### 📌 Key Insight
 Sharpe optimization significantly improved **risk-adjusted performance** and reduced downside exposure.
